@@ -23,6 +23,10 @@
 ![BingeFlix Screenshots4](assets/screenshots/faqs.png)
 ![BingeFlix Screenshots5](assets/screenshots/footer.png)
 
+## 🌍 Live Demo
+
+[👉 Click here to view on Netlify](https://bingeflix-by-kavya.netlify.app/)
+
 ## 🚀 Getting Started
 
 To run this project on your local machine:
@@ -35,14 +39,6 @@ To run this project on your local machine:
    cd bingeflix
 
 3. That's it! Explore the Netflix-style experience locally.
-
-## 📂 Folder Structure
-
-bingeflix/
-├── index.html
-├── style.css
-└── assets/
-    └── [images and banners]
 
 ## 📌 Note
 - This is a static front-end project built for educational and portfolio purposes.
