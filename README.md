@@ -25,7 +25,7 @@
 
 ## 🌍 Live Demo
 
-[👉 Click here to view on Netlify](https://bingeflix-by-kavya.netlify.app/)
+[👉 Click here to view](https://bingeflix-by-kavya.netlify.app/)
 
 ## 🚀 Getting Started
 
